@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  Lipstick_id: 1
+  brand: MyString
+
+two:
+  Lipstick_id: 1
+  brand: MyString
